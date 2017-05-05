@@ -1,0 +1,33 @@
+一、摘要
+负责：魏薇
+
+二、算法介绍和理论分析
+负责：魏薇
+1、枚举法
+2、Circle算法（破圈法）/Boruvka算法
+3、Prim
+4、Kruskal
+[注]：
+能找到的主要MST算法确实只有以上几个了，
+我觉得可以在Circle和Boruvka中保留一个
+其他查到的算法：
+A new fast algorithm for solving the minimum spanning tree problem based on DNA molecules computation
+A randomized linear-time algorithm to find minimum spanning trees
+A minimum spanning tree algorithm with inverse-Ackermann type complexity
+这些算法都只有文献，没有讲解之类的，实现难度比较大，也不够经典。
+
+马荣郑佳慧可以商量一下，实验里做Circle还是Boruvka算法
+
+三、数据生成
+负责：张子璐 黄佳雯
+1、纯Random
+2、2~3种图论里可能影响MST问题的特殊图
+
+四、实验设置与实验结果
+负责：马荣 郑佳慧
+1、实验设置
+2、可视化展示结果
+3、简要分析
+
+五、总结
+负责：魏薇
