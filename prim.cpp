@@ -86,7 +86,7 @@ int main()
     //初始化图G
     
     string filename;
-    string prefix = "mst_";
+    // string prefix = "mst_";
     string arr[11] = {"100_200_","100_1000_","100_4500_","500_1000_","500_10000_","500_50000_","1000_5000_","1000_20000_","1000_200000_","5000_20000_","5000_100000_"};
     
     ofstream ofs("result/prim.csv",ofstream::out); // output result to the test.csv csv file
